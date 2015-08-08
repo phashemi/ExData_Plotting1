@@ -6,21 +6,21 @@ There are 8 files associated with Project 1 -- four scripts (.R) that resulted i
 
 They include:
 
-plot1.R
+* plot1.R
 
-plot1.png
+* plot1.png
 
-plot2.R
+* plot2.R
 
-plot2.png
+* plot2.png
 
-plot3.R
+* plot3.R
 
-plot3.png
+* plot3.png
 
-plot4.R
+* plot4.R
 
-plot4.png
+* plot4.png
 
 
 
